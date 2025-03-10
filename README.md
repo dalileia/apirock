@@ -1,3 +1,6 @@
+Versão jun da ApiRock Lib - https://github.com/felipevex/apirock
+
+
 
 [![Build Status](https://travis-ci.org/triture/apirock.svg?branch=master)](https://travis-ci.org/triture/apirock)
 
